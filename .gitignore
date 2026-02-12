@@ -1,0 +1,15 @@
+# Datos pesados
+datos/
+outputs/
+
+# Archivos grandes
+*.zip
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
